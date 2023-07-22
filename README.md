@@ -5,3 +5,4 @@
 ![PassportPicture](https://github.com/Sravani69/portfolio/assets/106593724/55e5c870-2d88-48c9-84df-7cb93a0967cf)
 ![facebook](https://github.com/Sravani69/portfolio/assets/106593724/2dfc14bc-55b6-4a51-8cfb-8319d3e4cf31)
 ![filetype-css](https://github.com/Sravani69/portfolio/assets/106593724/eca76041-9551-4292-91bf-5eb8072e1f81)
+![filetype-html](https://github.com/Sravani69/portfolio/assets/106593724/31bc5c80-4003-4868-9458-f428350bf99b)
